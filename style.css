@@ -1,0 +1,327 @@
+body{
+  background-color: white;
+  border-color:white;
+  border-radius:8px;
+  border-style:none;
+  }
+  a {
+  text-decoration:none;
+  color:black;
+  }
+
+  .fa{
+  padding:10px;
+  font-size:30px;
+  width:50px;
+  text-align:center;
+  text-decoration:none;
+  }
+  .fa:hover{
+  opacity:0.7;
+  }
+  img{
+  width:100%;
+  height:100%;
+  border-radius:8px;
+  }
+  .h1{
+  display:flex;
+  background-color:gray;
+  width:auto;
+  height:auto;
+  margin:10px;
+  padding:10px;
+  align-items:center;
+  }
+  .h3{
+  display:flex;
+  flex-wrap:flex;
+  }
+  nav a {
+  padding:15px 25px;
+  margin:0px;
+  text-align:center;
+  font-size:20px;
+  }
+  .homesection h2{
+  text-align:center;
+  padding:10px;
+  margin:10px;
+  width:25%;
+  height:auto;
+  }
+  .a1{
+  font-weight:bold;
+  color:red;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  }
+  .homesection input, button{
+  text-align: center;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  padding:15px;
+  }
+  button{
+  background-color:lightgray;
+  border-radius:8px;
+  padding:15px;
+  text-transform:uppercase;
+  font-weight:bold;
+  cursor:pointer;
+  }
+  button:hover{
+  background-color:blue;
+  }
+  .homesection a{
+  color:red;
+  text-align:center;
+  }
+  .homesection p{
+  text-align: center;
+  }
+  .homesection{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:orange;
+  }
+  .services-section{
+  display: flex;
+  background-color:khaki;
+  padding:10px;
+  align-items:center;
+  margin:auto;
+  border-radius:8px;
+  }
+  .UI-UX{
+  width:30%;
+  height:auto;
+  border-radius:8px;
+  border-style:groove;
+  border-color:khaki;
+  background-color:yellow;
+  padding:10px;
+  }
+  .frontend{
+  width:30%;
+  height:auto;
+  border-radius:8px;
+  border-style:groove;
+  border-color:khaki;
+  background-color:yellow;
+  padding:10px;
+  }
+  .backend{
+  width:30%;
+  height:auto;
+  border-radius:8px;
+  border-style:groove;
+  border-color:khaki;
+  background-color:yellow;
+  padding:10px;
+  }
+  .UI-UX:hover{
+  opacity:0.5;
+  }
+  .frontend:hover{
+  opacity:0.6;
+  }
+  .backend:hover{
+  opacity:0.7;
+  }
+
+  .ourwork{
+  background-color:black;
+  display:block;
+  }
+
+  .h01{
+  display:flex;
+  padding:10px;
+  margin:10px;
+  }
+  .h001{
+  padding: 25px;
+  color:white;
+  border-style:groove;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  margin:auto;
+  align-items:center;
+  height:auto;
+  }
+  .h002{
+  padding: 25px;
+  color:white;
+  margin:auto;
+  align-items:center;
+  border-style:groove;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .h001:hover{
+  opacity:0.1;
+  }
+  .h002:hover{
+  opacity:0.1;
+  }
+  .h02{
+  display:flex;
+  padding:10px;
+  margin:10px;
+  }
+  .h003{
+  padding: 25px;
+  color:white;
+  margin:auto;
+  align-items:center;
+  border-style:groove;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .h003:hover{
+  opacity:0.1;
+  }
+  .our-team{
+  display:flex;
+  padding:10px;
+  margin:10px;
+  }
+  .c1{
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .c2{
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .c3{
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .c4{
+  display:block;
+  padding:10px;
+  margin:10px;
+  }
+  .c5{
+  display:flex;
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  }
+  .c5 img{
+  width:20mm;
+  height:20mm;
+  }
+  .c6{
+  display:block;
+  }
+  footer{
+  background-color:darkgreen;
+  color: gold;
+  display:block;
+  padding:10px;
+  margin:10px;
+  text-align:center;
+  }
+  .F1{
+  display:flex;
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  width:auto;
+  height:auto;
+  }
+  .f1{
+  padding: 25px;
+  margin:auto;
+  text-align:left;
+  font-weight:600;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .f1 a{
+  color:gold;
+  }
+  .f2{
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  width:45%;
+  height:auto;
+  }
+  .f2 a{
+  background-color:orange;
+  border-style:groove;
+  border-radius:8px;
+  border-color:black;
+  }
+  .f3{
+  padding: 25px;
+  margin:auto;
+  align-items:center;
+  border-style:none;
+  border-color:pink;
+  border-radius:8px;
+  font-weight:600;
+  width:45%;
+  height:auto;
+  }
+  .f3 input{
+  padding:15px;
+  }
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+   .h1{
+   display:block;
+   }
+   .services-section{
+    display:block;
+   }
+   .our-team{
+    display:block;
+   }
+   .F1{
+    display:block;
+   }
+  }
